@@ -1,0 +1,31 @@
+.block {
+    display: block;
+}
+
+/* 공식문서의 컨테이너 사이즈가 모호하다.
+ * 명확해질 때까지 다루지 않음
+ */
+
+.block.radius.xsmall {
+    border-radius: 2px;
+}
+
+.block.radius.small {
+    border-radius: 4px;
+}
+
+.block.radius.medium {
+    border-radius: 6px;
+}
+
+.block.radius.large {
+    border-radius: 10px;
+}
+
+.block.radius.xlarge {
+    border-radius: 12px;
+}
+
+.radius.max {
+    border-radius: 9999px;
+}
