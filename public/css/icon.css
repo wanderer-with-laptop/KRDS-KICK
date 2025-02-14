@@ -1,0 +1,291 @@
+i.icon { 
+    background-color: transparent !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    mask: none;
+}
+
+i.icon.angle,
+i.icon.toggle {
+    background-image: url(/img/icon/angle.svg);
+}
+
+i.icon.angle.disabled {
+    background-image: url(/img/icon/angle.disabled.svg);
+}
+
+.i.icon.angle.up {
+    transform: rotate(180deg);
+}
+
+i.icon.angle.left {
+    transform: rotate(90deg);
+}
+
+i.icon.angle.right,
+i.icon.page.next {
+    transform: rotate(-90deg);
+}
+
+i.icon.search {
+    background-image: url(/img/icon/search.svg);
+}
+
+i.icon.search.plus {
+    background-image: url(/img/icon/search.plus.svg);
+}
+
+i.icon.upload {
+    background-image: url(/img/icon/upload.svg);
+}
+
+i.icon.call {
+    background-image: url(/img/icon/call.svg);
+}
+
+i.icon.faq {
+    background-image: url(/img/icon/faq.svg);
+}
+
+i.icon.like {
+    background-image: url(/img/icon/like.svg);
+}
+
+i.icon.share {
+    background-image: url(/img/icon/share.svg);
+}
+
+i.icon.more {
+    background-image: url(/img/icon/more.svg);
+}
+
+i.icon.go {
+    background-image: url(/img/icon/go.svg);
+}
+
+i.icon.download {
+    background-image: url(/img/icon/download.svg);
+}
+
+i.icon.filter {
+    background-image: url(/img/icon/filter.svg);
+}
+
+i.icon.reset,
+i.icon.refresh {
+    background-image: url(/img/icon/reset.svg);
+}
+
+i.icon.login {
+    background-image: url(/img/icon/login.svg);
+}
+
+i.icon.logout {
+    background-image: url(/img/icon/logout.svg);
+}
+
+i.icon.expand {
+    background-image: url(/img/icon/expand.svg);
+    gap: var(--krds-gap-3);
+}
+
+i.icon.expand.up {
+    transform: rotate(-90deg);
+}
+
+i.icon.email {
+    background-image: url(/img/icon/email.svg);
+    gap: var(--krds-gap-3);
+}
+
+i.icon.print {
+    background-image: url(/img/icon/print.svg);
+    gap: var(--krds-gap-3);
+}
+
+i.icon.scrap {
+    background-image: url(/img/icon/scrap.svg);
+    gap: var(--krds-gap-3);   
+}
+
+i.icon.delete {
+    background-image: url(/img/icon/delete.svg);
+    gap: var(--krds-gap-3);
+}
+
+i.icon.close.popup,
+i.icon.close.modal {
+    background-image: url(/img/icon/close.svg);
+}
+
+i.icon.delete.fill {
+    background-image: url(/img/icon/delete.fill.svg);   
+}
+
+i.icon.plus {
+    background-image: url(/img/icon/plus.svg);
+    gap: var(--krds-gap-3);
+}
+
+i.icon.setting {
+    background-image: url(/img/icon/setting.svg);
+    gap: var(--krds-gap-3);
+}
+
+i.icon.link {
+    background-image: url(/img/icon/link.svg);
+    gap: var(--krds-gap-3);
+}
+
+i.icon.pw.show {
+    background-image: url(/img/icon/pw.show.svg);
+}
+
+i.icon.pw.hide {
+    background-image: url(/img/icon/pw.hide.svg)
+}
+
+i.icon.help {
+    background-image: url(/img/icon/help.svg);
+}
+
+i.icon.bread-home {
+    background-image: url(/img/icon/bread_home.svg);
+}
+
+i.icon.calendar.move {
+    background-image: url(/img/icon/arrow_dropdown.svg);
+}
+
+i.icon.calendar {
+    background-image: url(/img/icon/calendar.svg);
+}
+
+i.icon.success.fill {
+    background-image: url(/img/icon/success.fill.svg);
+}
+
+i.icon.information.fill {
+    background-image: url(/img/icon/information.fill.svg);
+}
+
+i.icon.error.fill {
+    background-image: url(/img/icon/error.fill.svg);
+}
+
+i.icon.complete.fill {
+    background-image: url(/img/icon/complete.fill.svg);
+}
+
+i.icon.foldable {
+    background-image: url(/img/icon/foldable.svg);
+}
+
+i.icon.foldable.right {
+    transform: rotate(-180deg);
+}
+
+i.icon.ellipsis {
+    background-image: url(/img/icon/ellipsis.svg);
+}
+
+i.icon.swiper.play {
+    background-image: url(/img/icon/swiper.play.svg);
+}
+
+i.icon.swiper.stop {
+    background-image: url(/img/icon/swiper.stop.svg);
+}
+
+i.icon.tooltip {
+    background-image: url(/img/icon/tooltip.svg);
+}
+
+i.icon.urgent-danger {
+    background-image: url(/img/icon/urgent_danger.svg);
+}
+
+i.icon.blog {
+    background-image: url(/img/icon/blog.svg);
+}
+
+i.icon.facebook {
+    background-image: url(/img/icon/facebook.svg);
+}
+
+i.icon.instagram {
+    background-image: url(/img/icon/instagram.svg);
+}
+
+i.icon.sns-x {
+    background-image: url(/img/icon/sns_x.svg);
+}
+
+i.icon.youtube {
+    background-image: url(/img/icon/youtube.svg);
+}
+
+i.icon.all {
+    background-image: url(/img/icon/all.svg);
+}
+
+i.icon.join {
+    background-image: url(/img/icon/join.svg);
+}
+
+i.icon.my {
+    background-image: url(/img/icon/my.svg);
+}
+
+i.icon.login-certify-go {
+    background-image: url(/img/icon/login_certify_go.svg);
+}
+
+i.icon.global {
+    background-image: url(/img/icon/global.svg);
+}
+
+i.icon.view-mode {
+    background-image: url(/img/icon/view_mode.svg);
+}
+
+i.icon.go-top {
+    background-image: url(/img/icon/go_top.svg);
+}
+
+i.icon.login.type01 {
+    background-image: url(/img/icon/login_certify_type_01.svg);
+}
+
+i.icon.login.type02 {
+    background-image: url(/img/icon/login_certify_type_02.svg);
+}
+
+i.icon.login.type03 {
+    background-image: url(/img/icon/login_certify_type_03.svg);
+}
+
+i.icon.login.type04 {
+    background-image: url(/img/icon/login_certify_type_04.svg);
+}
+
+i.icon.login.type05 {
+    background-image: url(/img/icon/login_certify_type_05.svg);
+}
+
+i.icon.login.type06 {
+    background-image: url(/img/icon/login_certify_type_06.svg);
+}
+
+i.icon.flag {
+    background-image: url(/img/icon/flag.svg);
+}
+
+i.icon.file {
+    background-image: url(/img/icon/file.svg);
+}
+
+i.icon.checkbox {
+    background-image: url(/img/icon/checkbox.svg);
+}
+
